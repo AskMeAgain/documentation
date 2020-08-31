@@ -1,5 +1,10 @@
 # Run a GoShimmer node
 
+	:::info:
+	**This tutorial is outdated, please checkout [this](https://github.com/iotaledger/goshimmer/wiki)
+	 wiki instead. **
+	:::
+
 **In this tutorial, you install and run a node on the GoShimmer network to test the network and keep up to date with regular changes.**
 
 You have the following options for running a node:
